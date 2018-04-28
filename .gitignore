@@ -35,3 +35,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+db.sqlite3
+
+__pycache__/
+*.py[cod]
+*$py.class
